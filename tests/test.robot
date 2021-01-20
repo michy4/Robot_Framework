@@ -1,3 +1,10 @@
+#Commandes à entrer:
+#   le bon fichier:
+#       cd C:\Epsi\script\Robot_Framework\robot
+#   la compilation:
+#       robot -d results tests/test.robot
+
+
 *** Settings ***
 # Ici on inclut les librairies requises
 
